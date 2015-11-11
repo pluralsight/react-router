@@ -1,14 +1,14 @@
 {
-  "name": "react-router",
-  "version": "0.13.5",
+  "name": "@pluralsight/react-router",
+  "version": "0.13.6",
   "description": "A complete routing library for React.js",
   "main": "lib",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rackt/react-router.git"
+    "url": "https://github.com/ps-dev/react-router.git"
   },
-  "homepage": "https://github.com/rackt/react-router/blob/latest/README.md",
-  "bugs": "https://github.com/rackt/react-router/issues",
+  "homepage": "https://github.com/ps-dev/react-router/blob/latest/README.md",
+  "bugs": "https://github.com/ps-dev/react-router/issues",
   "authors": [
     "Ryan Florence",
     "Michael Jackson"

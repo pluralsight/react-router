@@ -72,7 +72,7 @@ var HistoryLocation = {
   pop: History.back,
 
   getCurrentPath: function getCurrentPath() {
-    return decodeURI(window.location.pathname + window.location.search);
+    return decodeURI(window.location.pathname) + decodeURIComponent(window.location.search);
   },
 
   toString: function toString() {
